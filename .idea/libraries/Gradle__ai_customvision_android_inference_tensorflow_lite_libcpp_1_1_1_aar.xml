@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.customvision.android:inference-tensorflow-lite-libcpp:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f79e122b41008dcde3b756ef29f1275/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f79e122b41008dcde3b756ef29f1275/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
